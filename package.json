@@ -1,0 +1,13 @@
+{
+  "name": "auto-react-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that auto-reacts to a user's messages.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
